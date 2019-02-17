@@ -9,8 +9,9 @@
 package cse360assign2;
 
 /**
- * Calculator class keeps track of total variable
- * and performs operations on total.
+ * Calculator class keeps track of total variable,
+ * performs operations on total,
+ * and stores the history of operations in the history string.
  */
 public class Calculator {
 
