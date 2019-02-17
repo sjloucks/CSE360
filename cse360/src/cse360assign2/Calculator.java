@@ -38,6 +38,7 @@ public class Calculator {
 	/**
 	 * Adds value to total
 	 * and updates history.
+	 * 
 	 * @param value    value to add
 	 */
 	public void add (int value) {
